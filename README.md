@@ -1,4 +1,4 @@
-# drawing
+# Drawing
 TAO Drawing PCI
 
 With this PCI test taker will be able to draw math shapes and formulas.
